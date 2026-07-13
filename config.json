@@ -19,14 +19,13 @@
   },
 "adminBot": [
     "61592056612471"
-     "100024626886860"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Mark Sarowar3",
+  "nickNameBot": "Marksarowarbot v3",
   "prefix": "/",
   "database": {
     "type": "sqlite",
